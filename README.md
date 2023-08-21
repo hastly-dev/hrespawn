@@ -13,4 +13,7 @@
 **• Commands**
 <br>/hrespawn reload - reloads the plugin configuration.
 
+**• Download**
+<br>https://www.spigotmc.org/resources/hrespawn.112168/
+
 <br><img src="https://i.ibb.co/tctGscR/2023-08-21-12-33-22.png" width="640"></img>
