@@ -1,5 +1,5 @@
 # HRespawn
-**• Instant rebirth of a player with a title.**
+**• Instant respawn of a player with a title.**
 
 **• Flexible configuration**
 <br>1) Enabling and disabling automatic respawn
