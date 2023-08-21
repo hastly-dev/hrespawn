@@ -1,0 +1,14 @@
+#####################################################
+#
+# Made by Hastly_
+# GitHub - https://github.com/hastly-dev/hrespawn/
+#
+#####################################################
+
+enableAutoRespawn: true #true or false
+delayBeforeRespawnTicks: 0 #Ticks should not be less than 0
+deathTitle: '&c&lYou Died' #Set ' ' if you don't want to show the title
+deathSubTitle: '&fDon''t die anymore :)' #Set ' ' if you don't want to show the subtitle
+reloadMessage: '&aConfig has been successfully reloaded!'
+usageMessage: '&cUsage: '
+noPermission: '&cYou don''t have permission'
