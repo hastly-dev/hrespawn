@@ -11,7 +11,7 @@
 
     <name>HRespawn</name>
 
-    <description>Instant rebirth of a player with a title.</description>
+    <description>Auto respawn of a player with a title.</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
