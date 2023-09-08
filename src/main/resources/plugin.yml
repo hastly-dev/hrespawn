@@ -3,7 +3,7 @@ version: '${project.version}'
 main: me.hastly.hrespawn.Plugin
 api-version: '1.16'
 authors: [Hastly_]
-description: Instant respawn of a player with a title.
+description: Auto respawn of a player with a title.
 commands:
   hrespawn:
     aliases:
