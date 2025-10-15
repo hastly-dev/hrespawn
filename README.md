@@ -16,4 +16,4 @@
 **• Download**
 <br>https://www.spigotmc.org/resources/hrespawn.112168/
 
-<br><img src="https://i.ibb.co/tctGscR/2023-08-21-12-33-22.png" width="640"></img>
+<br><img src="https://downloader.disk.yandex.ru/preview/db73b5c1fbd231d57da977ac0b97593b1adc0244904d6c71f4883bb1a9b22b39/68efcf8f/-1FT4o87oKQ8on8TUN4CFOYZalCAPG7gaPJjt0DpeqEZDaNMPaZ6CzNSZMxisv474vL0kY3FUj8WtXdY98C1pQ%3D%3D?uid=0&filename=hrespawn.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048" width="650"></img>
